@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 			//------Main Section------
 		function main(){
 
@@ -40,7 +40,6 @@
  					document.body.appendChild(mainDiv);
 			}
 
-=======
 			//------Main Section------
 		function main(){
 
@@ -82,4 +81,3 @@
  					document.body.appendChild(mainDiv);
 			}
 
->>>>>>> 8030e24442e6a1d4d0a633005207bd811b88c1ec

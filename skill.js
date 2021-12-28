@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 			function skill(){
 
@@ -60,8 +60,7 @@
 				   skillArea.appendChild(skillThree);
 				document.body.appendChild(skillDiv);
 
-=======
-
+}
 			function skill(){
 
 
@@ -122,5 +121,4 @@
 				   skillArea.appendChild(skillThree);
 				document.body.appendChild(skillDiv);
 
->>>>>>> 8030e24442e6a1d4d0a633005207bd811b88c1ec
 			}
